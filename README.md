@@ -1,59 +1,92 @@
-# Adhithiya Kumar V K
+# Hi, I'm Adhithiya 👋
 
-**Undergraduate Researcher · CS @ VIT Vellore · Google Student Ambassador**
+Computer Science student at VIT with interests spanning Medical AI, Computer Vision, Multi-Agent Systems, and Reinforcement Learning environments.
 
-I work at the intersection of medical AI and autonomous systems — building models that segment liver tumors from CT scans and RL environments that evaluate AI agents on cloud security incident response. Currently a SWE Intern at Technip Energies and finishing up my first IEEE submission.
+Currently:
+
+* 🔬 First Author on an IEEE-submitted research project for liver tumor segmentation using uncertainty-aware CNN–Transformer fusion.
+* ☁️ Google Student Ambassador.
+* 🤖 Building agentic AI systems, cloud-native applications, and evaluation benchmarks.
+* 🛡️ Exploring AI for cloud security and autonomous incident response.
+
+## Research Interests
+
+* Medical Image Analysis
+* Computer Vision
+* Foundation Models
+* Multi-Agent Orchestration
+* Reinforcement Learning Environments
+* AI Systems Engineering
+
+## Featured Projects
+
+### Zenith AI
+
+Multi-agent AI workspace assistant integrating Gmail, Calendar, and Tasks using Gemini and Vertex AI.
+
+**Highlights**
+
+* Cloud-deployed agent orchestration system
+* Context-aware planning and memory management
+* OAuth-secured Google Workspace integrations
+* Top 10 (APAC) – Google Cloud Gen AI Academy Hackathon
+
+### OpenEnv-CloudSOC
+
+Production-ready benchmark environment for evaluating LLM agents on cloud security incident response tasks.
+
+**Highlights**
+
+* Custom RL environment with 12 environment mechanics
+* 24 security investigation tools
+* MITRE ATT&CK aligned scenarios
+* Deterministic evaluation framework
+* Built for the Meta × Scaler OpenEnv Hackathon
+
+### UA-CGF: Uncertainty-Aware Cross-Guided Fusion
+
+Novel CNN × Swin Transformer architecture for liver tumor segmentation.
+
+**Highlights**
+
+* Mean DSC: 0.9472 on LiTS dataset
+* Confidence-guided feature refinement
+* Entropy-based uncertainty estimation
+* IEEE manuscript under submission
+
+## Technical Stack
+
+**AI & Research**
+PyTorch • Hugging Face • Computer Vision • Deep Learning • Medical AI • Reinforcement Learning
+
+**Backend & Cloud**
+FastAPI • Docker • GCP • Vertex AI • Firestore • Cloud Run • OAuth 2.0
+
+**Languages**
+Python • C++ • Java • TypeScript • JavaScript • SQL
+
+## Achievements
+
+🏆 Top 10 Team (APAC) – Google Cloud Gen AI Academy Hackathon
+
+🥈 Runner-Up – MIDAS Civil NX Hackathon
+
+🎖 NVIDIA Deep Learning Institute – Building Real-Time Video AI Applications
+
+⭐ Gold Badge (C++) – HackerRank
+
+## Leadership & Community
+
+* Google Student Ambassador
+* Google Gen AI Elite Club
+* Core Team Member, VIT AIML Club
+* Core Team Member, VIT Creativity Club
+* Toastmasters Member
+
+## Current Focus
+
+Building reliable AI agents, evaluation environments, and research-driven AI systems that can move beyond demos into real-world deployment.
 
 ---
 
-## 🔬 Research
-
-**UA-CGF — Uncertainty-Aware Cross-Guided Fusion** *(First Author, IEEE submission)*  
-Bidirectional CNN × Swin Transformer fusion for liver tumor segmentation. Entropy-gated cross-branch feature refinement at 4 encoder scales.  
-📊 Mean DSC **0.9472** · Liver **0.9736** · Tumor **0.9208** on LiTS (19,163 CT slices)  
-`PyTorch` `Swin-UNet` `nnU-Net v2` `Medical Image Analysis`
-
----
-
-## 🚀 Featured Projects
-
-**[OpenEnv-CloudSOC](https://github.com/dev-Adhithiya/OpenEnv-CloudSOC)**  
-Custom RL environment built for the **Meta PyTorch OpenEnv Hackathon** (Meta × Scaler). Evaluates LLM agents on cloud security incident response — 12 environment mechanics, 24 Pydantic-validated tools, MITRE ATT&CK-mapped scenarios, multi-phase IR scoring.  
-`Gymnasium` `PyTorch` `Pydantic` `Docker` `Hugging Face Spaces`
-
-**[Zenith AI](https://github.com/dev-Adhithiya/ZenithAI)** — *Top 10 APAC · Google Cloud Gen AI Academy Hackathon*  
-Multi-agent workspace assistant orchestrating Gmail, Calendar, and Tasks with context-aware planning on Vertex AI. OAuth 2.0 · Firestore · Cloud Run.  
-`FastAPI` `Gemini` `Vertex AI` `GCP` `React`
-
-**Temporal Pattern Mining — Technip Energies** *(Internal)*  
-Production system for periodic failure detection across enterprise network logs. Dynamically registers event types (errors, threshold breaches, bottlenecks) and auto-generates per-event time-series visualizations. Deployed and used internally.  
-`Python` `pandas` `numpy`
-
----
-
-## 🛠 Tech Stack
-
-| Domain | Tools |
-|---|---|
-| Research & ML | PyTorch, Hugging Face, Swin-UNet, nnU-Net v2, OpenCV |
-| Cloud & Infra | GCP, Vertex AI, Cloud Run, Firestore, Docker |
-| Backend | FastAPI, Python, REST APIs, OAuth 2.0 |
-| Frontend | React, TypeScript |
-| Languages | Python, C++, Java, JavaScript, SQL |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Google Gen AI Elite Club** — Selected for excellence in AI innovation and community impact
-- 🏅 **Top 10 APAC** — Google Cloud Gen AI Academy Cohort 1 Hackathon
-- 🥈 **2nd Place** — MIDAS Civil NX Hackathon (170+ teams)
-- 🎖 **Google Student Ambassador** — Ran certified workshops on Gemini Nano, Canvas & multimodal AI for 100+ students
-- 📜 **NVIDIA Certificate** — Real-time Video AI Applications with DeepStream SDK
-- 💛 **HackerRank Gold (C++)** — Top 50K / 400K+ users
-
----
-
-## 📬 Contact
-
-[askadhithiya@gmail.com](mailto:askadhithiya@gmail.com)
+*"Research when necessary. Build whenever possible."*
