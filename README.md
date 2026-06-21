@@ -41,7 +41,6 @@ Production-ready benchmark environment for evaluating LLM agents on cloud securi
 * 24 security investigation tools
 * MITRE ATT&CK aligned scenarios
 * Deterministic evaluation framework
-* Built for the Meta × Scaler OpenEnv Hackathon
 
 ### UA-CGF: Uncertainty-Aware Cross-Guided Fusion
 
